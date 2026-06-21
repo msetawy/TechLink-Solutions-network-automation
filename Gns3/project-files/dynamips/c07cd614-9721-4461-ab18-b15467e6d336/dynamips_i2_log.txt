@@ -1,0 +1,29 @@
+Jun 21 18:44:34.920 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Jun 21 18:44:34.921 HYPERVISOR: Started on IP = localhost, TCP port = 14462.
+Jun 21 18:44:35.392 HYPERVISOR: exec_cmd: hypervisor version 
+Jun 21 18:44:35.393 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\Mohamed\Desktop\Techlink- project\Gns3\project-files\dynamips 
+Jun 21 18:44:35.394 GENERAL: working_dir=C:\Users\Mohamed\Desktop\Techlink- project\Gns3\project-files\dynamips
+Jun 21 18:44:35.394 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\Mohamed\Desktop\Techlink- project\Gns3\project-files\dynamips\c07cd614-9721-4461-ab18-b15467e6d336 
+Jun 21 18:44:35.394 GENERAL: working_dir=C:\Users\Mohamed\Desktop\Techlink- project\Gns3\project-files\dynamips\c07cd614-9721-4461-ab18-b15467e6d336
+Jun 21 18:44:35.395 HYPERVISOR: exec_cmd: vm create BR1-Alex-Router 2 c7200 
+Jun 21 18:44:35.403 VM: VM BR1-Alex-Router created.
+Jun 21 18:44:35.404 HYPERVISOR: exec_cmd: vm set_con_tcp_port BR1-Alex-Router 5001 
+Jun 21 18:44:35.404 HYPERVISOR: exec_cmd: c7200 get_mac_addr BR1-Alex-Router 
+Jun 21 18:44:35.405 HYPERVISOR: exec_cmd: vm get_status BR1-Alex-Router 
+Jun 21 18:44:35.405 HYPERVISOR: exec_cmd: vm slot_add_binding BR1-Alex-Router 0 0 C7200-IO-FE 
+Jun 21 18:44:35.407 HYPERVISOR: exec_cmd: vm set_disk0 BR1-Alex-Router 0 
+Jun 21 18:44:35.408 HYPERVISOR: exec_cmd: vm set_exec_area BR1-Alex-Router 64 
+Jun 21 18:44:35.408 HYPERVISOR: exec_cmd: vm get_status BR1-Alex-Router 
+Jun 21 18:44:35.409 HYPERVISOR: exec_cmd: vm set_idle_pc BR1-Alex-Router 0x60630d08 
+Jun 21 18:44:35.410 HYPERVISOR: exec_cmd: vm set_ios BR1-Alex-Router C:/Users/Mohamed/GNS3/images/IOS/c7200-adventerprisek9-mz.153-3.XB12.image 
+Jun 21 18:44:35.411 HYPERVISOR: exec_cmd: c7200 set_mac_addr BR1-Alex-Router ca02.3840.0000 
+Jun 21 18:44:35.411 HYPERVISOR: exec_cmd: vm set_nvram BR1-Alex-Router 512 
+Jun 21 18:44:35.412 HYPERVISOR: exec_cmd: vm set_ram BR1-Alex-Router 512 
+Jun 21 18:44:35.413 HYPERVISOR: exec_cmd: vm get_status BR1-Alex-Router 
+Jun 21 18:44:35.413 HYPERVISOR: exec_cmd: vm slot_remove_binding BR1-Alex-Router 0 0 
+Jun 21 18:44:35.413 HYPERVISOR: exec_cmd: vm get_status BR1-Alex-Router 
+Jun 21 18:44:35.414 HYPERVISOR: exec_cmd: vm slot_add_binding BR1-Alex-Router 0 0 C7200-IO-GE-E 
+Jun 21 18:44:35.414 HYPERVISOR: exec_cmd: vm get_status BR1-Alex-Router 
+Jun 21 18:44:35.415 HYPERVISOR: exec_cmd: vm slot_add_binding BR1-Alex-Router 1 0 PA-GE 
+Jun 21 18:44:35.416 HYPERVISOR: exec_cmd: vm get_status BR1-Alex-Router 
+Jun 21 18:44:35.416 HYPERVISOR: exec_cmd: vm slot_add_binding BR1-Alex-Router 2 0 PA-GE 

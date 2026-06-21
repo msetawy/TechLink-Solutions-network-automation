@@ -1,0 +1,36 @@
+Jun 21 18:50:30.623 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Jun 21 18:50:30.624 HYPERVISOR: Started on IP = localhost, TCP port = 1325.
+Jun 21 18:50:31.134 HYPERVISOR: exec_cmd: hypervisor version 
+Jun 21 18:50:31.135 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\Mohamed\Desktop\Techlink- project\Gns3\project-files\dynamips 
+Jun 21 18:50:31.135 GENERAL: working_dir=C:\Users\Mohamed\Desktop\Techlink- project\Gns3\project-files\dynamips
+Jun 21 18:50:31.135 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\Mohamed\Desktop\Techlink- project\Gns3\project-files\dynamips\83b3e455-6052-4af5-82ef-755475f41c6d 
+Jun 21 18:50:31.136 GENERAL: working_dir=C:\Users\Mohamed\Desktop\Techlink- project\Gns3\project-files\dynamips\83b3e455-6052-4af5-82ef-755475f41c6d
+Jun 21 18:50:31.136 HYPERVISOR: exec_cmd: vm create BR2-Giza-Router 3 c7200 
+Jun 21 18:50:31.137 VM: VM BR2-Giza-Router created.
+Jun 21 18:50:31.138 HYPERVISOR: exec_cmd: vm set_con_tcp_port BR2-Giza-Router 5002 
+Jun 21 18:50:31.138 HYPERVISOR: exec_cmd: c7200 get_mac_addr BR2-Giza-Router 
+Jun 21 18:50:31.139 HYPERVISOR: exec_cmd: vm get_status BR2-Giza-Router 
+Jun 21 18:50:31.139 HYPERVISOR: exec_cmd: vm slot_add_binding BR2-Giza-Router 0 0 C7200-IO-FE 
+Jun 21 18:50:31.139 HYPERVISOR: exec_cmd: vm set_disk0 BR2-Giza-Router 0 
+Jun 21 18:50:31.140 HYPERVISOR: exec_cmd: vm set_exec_area BR2-Giza-Router 64 
+Jun 21 18:50:31.140 HYPERVISOR: exec_cmd: vm get_status BR2-Giza-Router 
+Jun 21 18:50:31.140 HYPERVISOR: exec_cmd: vm set_idle_pc BR2-Giza-Router 0x60630d08 
+Jun 21 18:50:31.141 HYPERVISOR: exec_cmd: vm set_ios BR2-Giza-Router C:/Users/Mohamed/GNS3/images/IOS/c7200-adventerprisek9-mz.153-3.XB12.image 
+Jun 21 18:50:31.142 HYPERVISOR: exec_cmd: c7200 set_mac_addr BR2-Giza-Router ca03.2740.0000 
+Jun 21 18:50:31.142 HYPERVISOR: exec_cmd: vm set_nvram BR2-Giza-Router 512 
+Jun 21 18:50:31.142 HYPERVISOR: exec_cmd: vm set_ram BR2-Giza-Router 512 
+Jun 21 18:50:31.143 HYPERVISOR: exec_cmd: vm get_status BR2-Giza-Router 
+Jun 21 18:50:31.143 HYPERVISOR: exec_cmd: vm slot_remove_binding BR2-Giza-Router 0 0 
+Jun 21 18:50:31.143 HYPERVISOR: exec_cmd: vm get_status BR2-Giza-Router 
+Jun 21 18:50:31.144 HYPERVISOR: exec_cmd: vm slot_add_binding BR2-Giza-Router 0 0 C7200-IO-GE-E 
+Jun 21 18:50:31.144 HYPERVISOR: exec_cmd: vm get_status BR2-Giza-Router 
+Jun 21 18:50:31.144 HYPERVISOR: exec_cmd: vm slot_add_binding BR2-Giza-Router 1 0 PA-GE 
+Jun 21 18:50:31.145 HYPERVISOR: exec_cmd: vm get_status BR2-Giza-Router 
+Jun 21 18:50:31.145 HYPERVISOR: exec_cmd: vm slot_add_binding BR2-Giza-Router 2 0 PA-GE 
+Jun 21 18:53:53.163 HYPERVISOR: exec_cmd: vm get_status BR2-Giza-Router 
+Jun 21 18:53:53.167 HYPERVISOR: exec_cmd: vm extract_config BR2-Giza-Router 
+Jun 21 18:53:53.168 HYPERVISOR: exec_cmd: vm delete BR2-Giza-Router 
+Jun 21 18:53:53.168 VM: VM BR2-Giza-Router destroyed.
+Jun 21 18:53:53.189 HYPERVISOR: exec_cmd: hypervisor stop 
+Jun 21 18:53:53.482 HYPERVISOR: Stopped.
+Jun 21 18:53:53.482 GENERAL: reset done.

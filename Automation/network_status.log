@@ -1,0 +1,1450 @@
+2026-06-21 00:56:21,290 - INFO - Checking network configuration state...
+2026-06-21 00:56:23,673 - INFO - >> System detected existing configurations. Skipping initial deployment phase.
+2026-06-21 00:56:23,674 - INFO - === STARTING LIVE WAN PATH MONITOR ENGINE ===
+2026-06-21 00:56:26,115 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 00:56:26,115 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 00:56:26,116 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 00:56:56,275 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 00:56:56,275 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 00:56:56,276 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 00:57:26,455 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 00:57:26,456 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 00:57:26,456 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 00:57:56,648 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 00:57:56,650 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 00:57:56,651 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 00:58:24,455 - INFO - Monitoring stopped by user.
+2026-06-21 00:58:35,137 - INFO - Checking network configuration state...
+2026-06-21 00:58:37,948 - INFO - >> System detected existing configurations. Skipping initial deployment phase.
+2026-06-21 00:58:37,949 - INFO - === STARTING LIVE WAN PATH MONITOR ENGINE ===
+2026-06-21 00:58:41,016 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 00:58:41,017 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 00:58:41,018 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 00:59:11,187 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 00:59:11,187 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 00:59:11,188 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 00:59:41,339 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 00:59:41,340 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 00:59:41,340 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 01:00:11,500 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:00:11,501 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:00:11,501 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 01:00:41,656 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:00:41,657 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:00:41,658 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 01:01:11,845 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:01:11,846 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:01:11,847 - INFO -  -> GIZA Branch Traffic Path : BACKUP (Gi4/0)
+
+2026-06-21 01:01:42,061 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:01:42,062 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:01:42,062 - INFO -  -> GIZA Branch Traffic Path : BACKUP (Gi4/0)
+
+2026-06-21 01:02:12,260 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:02:12,260 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:02:12,261 - INFO -  -> GIZA Branch Traffic Path : BACKUP (Gi4/0)
+
+2026-06-21 01:02:42,506 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:02:42,507 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:02:42,507 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 01:03:12,717 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:03:12,718 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:03:12,719 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 01:03:42,879 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:03:42,880 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:03:42,880 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 01:04:13,080 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:04:13,082 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:04:13,083 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 01:04:43,256 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:04:43,256 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:04:43,256 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 01:05:13,415 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:05:13,416 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:05:13,417 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 01:05:43,569 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:05:43,569 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:05:43,570 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 01:06:13,730 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:06:13,732 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:06:13,733 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 01:06:43,923 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:06:43,924 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:06:43,925 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 01:07:14,080 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:07:14,084 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:07:14,085 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 01:07:44,284 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:07:44,285 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:07:44,285 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 01:08:14,442 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:08:14,443 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:08:14,443 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 01:08:44,581 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:08:44,582 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:08:44,582 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 01:08:48,430 - INFO - Monitoring stopped by user.
+2026-06-21 01:08:58,789 - INFO - Checking network configuration state...
+2026-06-21 01:09:00,219 - INFO - >> System detected existing configurations. Skipping initial deployment phase.
+2026-06-21 01:09:00,220 - INFO - === STARTING LIVE WAN PATH MONITOR ENGINE ===
+2026-06-21 01:09:01,831 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:09:01,832 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:09:01,833 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:09:32,021 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:09:32,026 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:09:32,027 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:10:02,283 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:10:02,284 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:10:02,285 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:10:32,456 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:10:32,457 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:10:32,458 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:10:42,624 - INFO - Monitoring stopped by user.
+2026-06-21 01:10:51,377 - INFO - Checking network configuration state...
+2026-06-21 01:10:54,451 - INFO - >> System detected existing configurations. Skipping initial deployment phase.
+2026-06-21 01:10:54,452 - INFO - === STARTING LIVE WAN PATH MONITOR ENGINE ===
+2026-06-21 01:10:57,767 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:10:57,767 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:10:57,768 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:11:28,141 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:11:28,141 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:11:28,142 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:11:58,491 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:11:58,492 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:11:58,493 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:12:28,769 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:12:28,769 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:12:28,770 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:12:59,432 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:12:59,450 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:12:59,498 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:13:29,862 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:13:29,862 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:13:29,864 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:14:00,149 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:14:00,150 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:14:00,150 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:14:04,244 - INFO - Monitoring stopped by user.
+2026-06-21 01:14:07,772 - INFO - Checking network configuration state...
+2026-06-21 01:14:10,200 - INFO - >> System detected existing configurations. Skipping initial deployment phase.
+2026-06-21 01:14:10,201 - INFO - === STARTING LIVE WAN PATH MONITOR ENGINE ===
+2026-06-21 01:14:13,373 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:14:13,373 - INFO -  -> ALEX Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:14:13,374 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:14:43,740 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:14:43,741 - INFO -  -> ALEX Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:14:43,741 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:15:14,117 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:15:14,118 - INFO -  -> ALEX Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:15:14,119 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:15:44,426 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:15:44,427 - INFO -  -> ALEX Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:15:44,428 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:16:14,786 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:16:14,787 - INFO -  -> ALEX Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:16:14,788 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:16:15,687 - INFO - Monitoring stopped by user.
+2026-06-21 01:16:23,039 - INFO - Checking network configuration state...
+2026-06-21 01:16:25,080 - INFO - >> System detected existing configurations. Skipping initial deployment phase.
+2026-06-21 01:16:25,081 - INFO - === STARTING LIVE WAN PATH MONITOR ENGINE ===
+2026-06-21 01:16:28,356 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:16:28,356 - INFO -  -> ALEX Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:16:28,357 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:16:58,722 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:16:58,723 - INFO -  -> ALEX Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:16:58,724 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:17:29,091 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:17:29,091 - INFO -  -> ALEX Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:17:29,092 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:17:53,358 - INFO - Monitoring stopped by user.
+2026-06-21 01:21:35,090 - INFO - >> System detected unconfigured devices. Initiating base deployment layout...
+2026-06-21 01:22:34,590 - INFO - === STARTING LIVE WAN PATH MONITOR ENGINE ===
+2026-06-21 01:22:37,700 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:22:37,702 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:22:37,702 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:22:57,006 - INFO - Monitoring stopped by user.
+2026-06-21 01:23:07,141 - INFO - Checking network configuration state...
+2026-06-21 01:23:08,756 - INFO - >> System detected existing configurations. Skipping initial deployment phase.
+2026-06-21 01:23:08,757 - INFO - === STARTING LIVE WAN PATH MONITOR ENGINE ===
+2026-06-21 01:23:11,048 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:23:11,048 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:23:11,049 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:23:41,351 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:23:41,352 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:23:41,353 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:24:11,696 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:24:11,696 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:24:11,697 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:24:42,017 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:24:42,017 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:24:42,018 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:25:12,418 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:25:12,491 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:25:12,585 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:25:43,049 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:25:43,054 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:25:43,058 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> [91mNO ROUTE (ISOLATED)[0m
+
+2026-06-21 01:26:13,479 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:26:13,480 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:26:13,482 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:26:43,796 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:26:43,797 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:26:43,798 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:27:14,154 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:27:14,155 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi1/0)
+2026-06-21 01:27:14,156 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Active Path -> PRIMARY (Gi3/0)
+
+2026-06-21 01:27:31,458 - INFO - Monitoring stopped by user.
+2026-06-21 01:27:37,720 - INFO - Checking network configuration state...
+2026-06-21 01:27:39,660 - INFO - >> System detected existing configurations. Skipping initial deployment phase.
+2026-06-21 01:27:39,661 - INFO - === STARTING LIVE WAN PATH MONITOR ENGINE ===
+2026-06-21 01:27:41,160 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:27:41,160 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:27:41,160 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 01:28:11,368 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:28:11,369 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:28:11,369 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 01:28:41,579 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:28:41,579 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:28:41,580 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 01:29:11,772 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:29:11,773 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:29:11,773 - INFO -  -> GIZA Branch Traffic Path : [91m[ALERT - DOWN][0m
+
+2026-06-21 01:29:41,991 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:29:41,992 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:29:41,993 - INFO -  -> GIZA Branch Traffic Path : BACKUP (Gi4/0)
+
+2026-06-21 01:30:12,151 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:30:12,152 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:30:12,153 - INFO -  -> GIZA Branch Traffic Path : BACKUP (Gi4/0)
+
+2026-06-21 01:30:18,547 - INFO - Monitoring stopped by user.
+2026-06-21 01:30:24,041 - INFO - Checking network configuration state...
+2026-06-21 01:30:27,134 - INFO - >> System detected existing configurations. Skipping initial deployment phase.
+2026-06-21 01:30:27,135 - INFO - === STARTING LIVE WAN PATH MONITOR ENGINE ===
+2026-06-21 01:30:30,010 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:30:30,011 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:30:30,012 - INFO -  -> GIZA Branch Traffic Path : BACKUP (Gi4/0)
+
+2026-06-21 01:31:00,204 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:31:00,204 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:31:00,205 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 01:31:30,388 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:31:30,392 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:31:30,394 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 01:32:00,560 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:32:00,560 - INFO -  -> ALEX Branch Traffic Path : PRIMARY (Gi1/0)
+2026-06-21 01:32:00,561 - INFO -  -> GIZA Branch Traffic Path : PRIMARY (Gi3/0)
+
+2026-06-21 01:32:30,573 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:32:30,573 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:32:30,574 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:33:00,588 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:33:00,588 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:33:00,589 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:33:30,600 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:33:30,600 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:33:30,601 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:34:00,614 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:34:00,614 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:34:00,615 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:34:30,627 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:34:30,627 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:34:30,628 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:35:00,641 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:35:00,641 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:35:00,642 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:35:30,654 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:35:30,654 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:35:30,655 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:36:00,667 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:36:00,667 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:36:00,668 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:36:30,680 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:36:30,680 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:36:30,681 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:37:00,695 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:37:00,695 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:37:00,696 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:37:30,708 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:37:30,708 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:37:30,709 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:38:00,721 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:38:00,722 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:38:00,722 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:38:30,735 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:38:30,736 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:38:30,736 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:39:00,754 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:39:00,759 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:39:00,761 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:39:30,775 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:39:30,776 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:39:30,776 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:40:00,792 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:40:00,794 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:40:00,794 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:40:30,807 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:40:30,808 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:40:30,809 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:41:00,822 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:41:00,822 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:41:00,823 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:41:30,835 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:41:30,835 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:41:30,836 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:42:00,848 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:42:00,848 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:42:00,849 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:42:30,863 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:42:30,867 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:42:30,868 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:43:00,881 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:43:00,882 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:43:00,882 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:43:30,895 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:43:30,895 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:43:30,896 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:44:00,909 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:44:00,909 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:44:00,909 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:44:30,922 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:44:30,922 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:44:30,923 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:45:00,935 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:45:00,935 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:45:00,936 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:45:30,950 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:45:30,950 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:45:30,951 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:46:00,962 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:46:00,963 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:46:00,964 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:46:30,977 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:46:30,977 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:46:30,978 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:47:00,991 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:47:00,993 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:47:00,994 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:47:31,006 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:47:31,009 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:47:31,010 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:48:01,028 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:48:01,030 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:48:01,031 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:48:31,050 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:48:31,050 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:48:31,051 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:49:01,063 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:49:01,064 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:49:01,064 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:49:31,077 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:49:31,077 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:49:31,078 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:50:01,090 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:50:01,090 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:50:01,091 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:50:31,103 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:50:31,104 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:50:31,104 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 01:51:01,116 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 01:51:01,116 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 01:51:01,117 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 02:28:11,014 - INFO - [LIVE TRAFFIC MAP STATUS INTERVAL]
+2026-06-21 02:28:11,018 - INFO -  -> ALEX Branch Traffic Path : ERROR
+2026-06-21 02:28:11,021 - INFO -  -> GIZA Branch Traffic Path : ERROR
+
+2026-06-21 02:28:21,604 - INFO - Monitoring stopped by user.
+2026-06-21 11:08:50,052 - INFO - Verifying network state...
+2026-06-21 11:08:52,324 - INFO - >> Target already configured. Skipping baseline deployment script.
+2026-06-21 11:08:52,325 - INFO - === WAN TRACKING ENGINE ONLINE ===
+2026-06-21 11:08:55,634 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:08:55,634 - INFO -  -> ALEX Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+2026-06-21 11:08:55,635 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+
+2026-06-21 11:09:25,829 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:09:25,829 - INFO -  -> ALEX Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+2026-06-21 11:09:25,830 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+
+2026-06-21 11:09:44,785 - INFO - Monitor killed by operator.
+2026-06-21 11:16:21,421 - INFO - Verifying network state...
+2026-06-21 11:16:24,640 - INFO - >> Target already configured. Skipping baseline deployment script.
+2026-06-21 11:16:24,641 - INFO - === WAN TRACKING ENGINE ONLINE ===
+2026-06-21 11:16:27,327 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:16:27,328 - INFO -  -> ALEX Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+2026-06-21 11:16:27,329 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+
+2026-06-21 11:16:57,508 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:16:57,508 - INFO -  -> ALEX Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+2026-06-21 11:16:57,509 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+
+2026-06-21 11:17:01,740 - INFO - Monitor killed by operator.
+2026-06-21 11:20:02,349 - INFO - Verifying network state...
+2026-06-21 11:20:02,349 - INFO - >> Initializing baseline device configurations...
+2026-06-21 11:21:04,630 - INFO - Verifying network state...
+2026-06-21 11:21:04,631 - INFO - >> Initializing baseline device configurations...
+2026-06-21 11:21:49,282 - INFO - === WAN TRACKING ENGINE ONLINE ===
+2026-06-21 11:21:52,224 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:21:52,225 - INFO -  -> ALEX Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+2026-06-21 11:21:52,225 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+
+2026-06-21 11:22:22,401 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:22:22,401 - INFO -  -> ALEX Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+2026-06-21 11:22:22,402 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+
+2026-06-21 11:22:52,607 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:22:52,618 - INFO -  -> ALEX Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+2026-06-21 11:22:52,619 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+
+2026-06-21 11:23:03,057 - INFO - Monitor killed by operator.
+2026-06-21 11:23:06,430 - INFO - Verifying network state...
+2026-06-21 11:23:06,431 - INFO - >> Initializing baseline device configurations...
+2026-06-21 11:23:39,625 - INFO - === WAN TRACKING ENGINE ONLINE ===
+2026-06-21 11:23:41,049 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:23:41,049 - INFO -  -> ALEX Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+2026-06-21 11:23:41,050 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+
+2026-06-21 11:24:11,231 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:24:11,231 - INFO -  -> ALEX Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+2026-06-21 11:24:11,232 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+
+2026-06-21 11:24:41,528 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:24:41,529 - INFO -  -> ALEX Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+2026-06-21 11:24:41,530 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+
+2026-06-21 11:25:11,683 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:25:11,683 - INFO -  -> ALEX Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+2026-06-21 11:25:11,684 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+
+2026-06-21 11:25:41,857 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:25:41,857 - INFO -  -> ALEX Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+2026-06-21 11:25:41,858 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+
+2026-06-21 11:26:01,875 - INFO - Monitor killed by operator.
+2026-06-21 11:26:05,510 - INFO - Verifying network state...
+2026-06-21 11:26:08,105 - INFO - >> Target already configured. Skipping baseline deployment script.
+2026-06-21 11:26:08,105 - INFO - === WAN TRACKING ENGINE ONLINE ===
+2026-06-21 11:26:11,242 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:26:11,242 - INFO -  -> ALEX Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+2026-06-21 11:26:11,242 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+
+2026-06-21 11:26:16,010 - INFO - Monitor killed by operator.
+2026-06-21 11:27:03,389 - INFO - Verifying network state...
+2026-06-21 11:27:05,189 - INFO - >> Target already configured. Skipping baseline deployment script.
+2026-06-21 11:27:05,189 - INFO - === WAN TRACKING ENGINE ONLINE ===
+2026-06-21 11:27:08,366 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:27:08,366 - INFO -  -> ALEX Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+2026-06-21 11:27:08,367 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+
+2026-06-21 11:27:38,539 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:27:38,539 - INFO -  -> ALEX Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+2026-06-21 11:27:38,540 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+
+2026-06-21 11:28:08,761 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:28:08,761 - INFO -  -> ALEX Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+2026-06-21 11:28:08,762 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+
+2026-06-21 11:28:25,549 - INFO - Monitor killed by operator.
+2026-06-21 11:30:31,214 - INFO - Verifying network state...
+2026-06-21 11:30:32,635 - INFO - >> Target already configured. Skipping baseline deployment script.
+2026-06-21 11:30:32,636 - INFO - === WAN TRACKING ENGINE ONLINE ===
+2026-06-21 11:30:34,976 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:30:34,976 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:30:34,977 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> PRIMARY (Gi3/0)
+
+2026-06-21 11:31:05,214 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:31:05,214 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:31:05,215 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> PRIMARY (Gi3/0)
+
+2026-06-21 11:31:35,361 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:31:35,361 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:31:35,361 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> PRIMARY (Gi3/0)
+
+2026-06-21 11:32:05,518 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:32:05,518 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:32:05,519 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> PRIMARY (Gi3/0)
+
+2026-06-21 11:32:35,690 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:32:35,691 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:32:35,691 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> PRIMARY (Gi3/0)
+
+2026-06-21 11:33:05,861 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:33:05,861 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:33:05,862 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> PRIMARY (Gi3/0)
+
+2026-06-21 11:33:36,131 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:33:36,132 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:33:36,134 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:34:06,306 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:34:06,307 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:34:06,307 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:34:36,485 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:34:36,485 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:34:36,486 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:35:06,659 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:35:06,660 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:35:06,660 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:35:36,905 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:35:36,905 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:35:36,906 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:36:07,133 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:36:07,133 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:36:07,134 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:36:37,322 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:36:37,322 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:36:37,323 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:36:52,372 - INFO - Monitor killed by operator.
+2026-06-21 11:36:55,345 - INFO - Verifying network state...
+2026-06-21 11:36:58,215 - INFO - >> Target already configured. Skipping baseline deployment script.
+2026-06-21 11:36:58,215 - INFO - === WAN TRACKING ENGINE ONLINE ===
+2026-06-21 11:37:01,862 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:37:01,862 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:37:01,862 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:37:32,205 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:37:32,206 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:37:32,206 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:38:02,594 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:38:02,594 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:38:02,595 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:38:33,047 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:38:33,047 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:38:33,048 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:39:03,357 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:39:03,357 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:39:03,358 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:39:33,739 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:39:33,739 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:39:33,740 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:40:04,042 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:40:04,042 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:40:04,043 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:40:34,510 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:40:34,511 - INFO -  -> ALEX Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+2026-06-21 11:40:34,512 - INFO -  -> GIZA Branch: [Primary: [91m[ALERT - DOWN][0m] [Backup: [91m[ALERT - DOWN][0m] | Forwarding Via -> [91mNO ACTIVE ROUTE[0m
+
+2026-06-21 11:40:53,302 - INFO - Monitor killed by operator.
+2026-06-21 11:41:32,036 - INFO - Verifying network state...
+2026-06-21 11:41:33,620 - INFO - >> Target already configured. Skipping baseline deployment script.
+2026-06-21 11:41:33,620 - INFO - === WAN TRACKING ENGINE ONLINE ===
+2026-06-21 11:41:36,913 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:41:36,913 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:41:36,914 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:42:07,341 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:42:07,341 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:42:07,346 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:42:37,733 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:42:37,734 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:42:37,735 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:43:08,252 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:43:08,255 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:43:08,267 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:43:38,666 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:43:38,669 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:43:38,669 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:44:08,999 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:44:09,000 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:44:09,000 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:44:39,397 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:44:39,398 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:44:39,398 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:45:09,735 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:45:09,736 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:45:09,737 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:45:40,127 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:45:40,128 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:45:40,128 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:46:10,490 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:46:10,490 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:46:10,491 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:46:40,881 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:46:40,882 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:46:40,882 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:47:11,233 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:47:11,235 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:47:11,236 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:47:41,521 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:47:41,521 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:47:41,522 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:48:11,824 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:48:11,825 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:48:11,825 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:48:42,161 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:48:42,161 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:48:42,162 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:49:12,467 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:49:12,467 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:49:12,468 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:49:42,793 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:49:42,793 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:49:42,793 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:50:13,159 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:50:13,159 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:50:13,159 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:50:43,494 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:50:43,494 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:50:43,494 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:51:13,839 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:51:13,839 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:51:13,840 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:51:44,228 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:51:44,228 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:51:44,230 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:52:14,554 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:52:14,555 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:52:14,555 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:52:44,898 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:52:44,898 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:52:44,899 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:53:15,244 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:53:15,245 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:53:15,245 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:53:45,568 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:53:45,568 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:53:45,569 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:54:15,867 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:54:15,867 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:54:15,868 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:54:46,344 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:54:46,345 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:54:46,345 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:55:16,652 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:55:16,652 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:55:16,653 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:55:47,082 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:55:47,083 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:55:47,085 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:56:17,464 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:56:17,466 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:56:17,468 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:56:47,873 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:56:47,874 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:56:47,874 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:57:18,295 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:57:18,295 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:57:18,295 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:57:48,739 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:57:48,739 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:57:48,739 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:57:50,096 - INFO - Monitor killed by operator.
+2026-06-21 11:57:54,339 - INFO - Verifying network state...
+2026-06-21 11:57:56,544 - INFO - >> Target already configured. Skipping baseline deployment script.
+2026-06-21 11:57:56,545 - INFO - === WAN TRACKING ENGINE ONLINE ===
+2026-06-21 11:57:59,355 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:57:59,356 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:57:59,356 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:58:29,666 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:58:29,666 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:58:29,666 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:59:00,011 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:59:00,012 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:59:00,012 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 11:59:30,391 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 11:59:30,391 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 11:59:30,392 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:00:00,771 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:00:00,772 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:00:00,774 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:00:31,196 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:00:31,197 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:00:31,198 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:01:01,598 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:01:01,599 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:01:01,600 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:01:31,998 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:01:31,998 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:01:31,999 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:02:02,340 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:02:02,342 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:02:02,345 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:02:32,729 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:02:32,731 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:02:32,732 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:03:03,035 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:03:03,036 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:03:03,036 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:03:33,365 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:03:33,366 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:03:33,366 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:04:03,681 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:04:03,682 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:04:03,683 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:04:34,020 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:04:34,020 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:04:34,021 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:05:04,370 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:05:04,370 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:05:04,370 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:05:34,718 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:05:34,719 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:05:34,720 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:06:05,057 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:06:05,057 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:06:05,057 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:06:35,403 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:06:35,403 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:06:35,404 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:07:05,692 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:07:05,692 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:07:05,693 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:07:36,071 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:07:36,071 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:07:36,072 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:08:06,505 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:08:06,506 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:08:06,506 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:08:36,810 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:08:36,811 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:08:36,811 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:09:07,161 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:09:07,161 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:09:07,162 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:09:37,508 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:09:37,510 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:09:37,510 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:10:07,859 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:10:07,859 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:10:07,860 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:10:38,191 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:10:38,192 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:10:38,192 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:11:08,544 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:11:08,547 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:11:08,548 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:11:38,905 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:11:38,905 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:11:38,906 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:12:09,284 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:12:09,284 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:12:09,285 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:12:39,796 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:12:39,836 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:12:39,865 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:13:10,316 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:13:10,316 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:13:10,317 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:13:40,732 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:13:40,734 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:13:40,734 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:14:11,087 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:14:11,087 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:14:11,087 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:14:41,517 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:14:41,518 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:14:41,519 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:15:11,940 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:15:11,940 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:15:11,941 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:15:42,253 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:15:42,254 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:15:42,255 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:16:12,611 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:16:12,611 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:16:12,612 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:16:43,025 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:16:43,025 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:16:43,026 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:17:13,469 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:17:13,470 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:17:13,471 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:17:43,759 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:17:43,759 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:17:43,760 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:18:14,162 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:18:14,162 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:18:14,163 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:18:44,514 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:18:44,514 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:18:44,515 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:19:14,860 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:19:14,861 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:19:14,861 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:19:45,314 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:19:45,315 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:19:45,316 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:20:15,692 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:20:15,692 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:20:15,693 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:20:46,014 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:20:46,014 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:20:46,015 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:21:16,323 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:21:16,324 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:21:16,324 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:21:46,653 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:21:46,653 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:21:46,654 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:22:16,977 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:22:16,979 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:22:16,980 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:22:47,297 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:22:47,298 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:22:47,298 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:23:17,672 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:23:17,672 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:23:17,673 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:23:48,051 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:23:48,051 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:23:48,051 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:24:18,400 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:24:18,400 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:24:18,401 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:24:48,805 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:24:48,805 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:24:48,805 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:25:19,155 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:25:19,155 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:25:19,155 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:25:49,452 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:25:49,453 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:25:49,453 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:26:19,824 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:26:19,825 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:26:19,825 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:26:50,194 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:26:50,194 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:26:50,195 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:27:21,176 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:27:21,177 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> PRIMARY (Gi1/0)
+2026-06-21 12:27:21,177 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding Via -> BACKUP (Gi4/0)
+
+2026-06-21 12:27:51,193 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:27:51,193 - INFO -  -> ALEX Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+2026-06-21 12:27:51,194 - INFO -  -> GIZA Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+
+2026-06-21 12:28:21,317 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:28:21,409 - INFO -  -> ALEX Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+2026-06-21 12:28:21,551 - INFO -  -> GIZA Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+
+2026-06-21 12:28:51,673 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:28:51,685 - INFO -  -> ALEX Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+2026-06-21 12:28:51,696 - INFO -  -> GIZA Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+
+2026-06-21 12:29:21,715 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:29:21,715 - INFO -  -> ALEX Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+2026-06-21 12:29:21,715 - INFO -  -> GIZA Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+
+2026-06-21 12:29:51,729 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:29:51,730 - INFO -  -> ALEX Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+2026-06-21 12:29:51,731 - INFO -  -> GIZA Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+
+2026-06-21 12:30:21,744 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:30:21,749 - INFO -  -> ALEX Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+2026-06-21 12:30:21,749 - INFO -  -> GIZA Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+
+2026-06-21 12:30:51,762 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:30:51,762 - INFO -  -> ALEX Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+2026-06-21 12:30:51,763 - INFO -  -> GIZA Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+
+2026-06-21 12:31:21,774 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:31:21,774 - INFO -  -> ALEX Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+2026-06-21 12:31:21,775 - INFO -  -> GIZA Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+
+2026-06-21 12:31:51,788 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:31:51,788 - INFO -  -> ALEX Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+2026-06-21 12:31:51,788 - INFO -  -> GIZA Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+
+2026-06-21 12:32:21,801 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:32:21,801 - INFO -  -> ALEX Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+2026-06-21 12:32:21,801 - INFO -  -> GIZA Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+
+2026-06-21 12:32:51,813 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:32:51,813 - INFO -  -> ALEX Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+2026-06-21 12:32:51,814 - INFO -  -> GIZA Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+
+2026-06-21 12:33:21,826 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:33:21,826 - INFO -  -> ALEX Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+2026-06-21 12:33:21,827 - INFO -  -> GIZA Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+
+2026-06-21 12:33:51,839 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:33:51,839 - INFO -  -> ALEX Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+2026-06-21 12:33:51,839 - INFO -  -> GIZA Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+
+2026-06-21 12:34:21,851 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:34:21,854 - INFO -  -> ALEX Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+2026-06-21 12:34:21,856 - INFO -  -> GIZA Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+
+2026-06-21 12:34:51,870 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:34:51,872 - INFO -  -> ALEX Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+2026-06-21 12:34:51,873 - INFO -  -> GIZA Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+
+2026-06-21 12:35:21,885 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:35:21,885 - INFO -  -> ALEX Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+2026-06-21 12:35:21,886 - INFO -  -> GIZA Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+
+2026-06-21 12:35:51,898 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:35:51,898 - INFO -  -> ALEX Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+2026-06-21 12:35:51,898 - INFO -  -> GIZA Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+
+2026-06-21 12:36:21,911 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:36:21,911 - INFO -  -> ALEX Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+2026-06-21 12:36:21,911 - INFO -  -> GIZA Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+
+2026-06-21 12:36:51,923 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:36:51,924 - INFO -  -> ALEX Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+2026-06-21 12:36:51,924 - INFO -  -> GIZA Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+
+2026-06-21 12:37:21,937 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 12:37:21,941 - INFO -  -> ALEX Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+2026-06-21 12:37:21,942 - INFO -  -> GIZA Branch: [Primary: ERR] [Backup: ERR] | Forwarding Via -> ERR
+
+2026-06-21 12:37:41,397 - INFO - Monitor killed by operator.
+2026-06-21 15:00:39,003 - INFO - Verifying network state...
+2026-06-21 15:00:41,775 - INFO - >> Target already configured. Skipping baseline deployment script.
+2026-06-21 15:00:41,776 - INFO - === WAN TRACKING ENGINE ONLINE ===
+2026-06-21 15:00:43,887 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:00:43,888 - INFO -  -> ALEX Branch: [Link 1: [92mUP[0m] [Link 2: [92mUP[0m] | Forwarding -> SINGLE PATH (Gi1/0)
+2026-06-21 15:00:43,889 - INFO -  -> GIZA Branch: [Link 1: [92mUP[0m] [Link 2: [92mUP[0m] | Forwarding -> SINGLE PATH (Gi3/0)
+
+2026-06-21 15:01:14,173 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:01:14,173 - INFO -  -> ALEX Branch: [Link 1: [92mUP[0m] [Link 2: [92mUP[0m] | Forwarding -> SINGLE PATH (Gi1/0)
+2026-06-21 15:01:14,174 - INFO -  -> GIZA Branch: [Link 1: [92mUP[0m] [Link 2: [92mUP[0m] | Forwarding -> SINGLE PATH (Gi3/0)
+
+2026-06-21 15:01:44,486 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:01:44,487 - INFO -  -> ALEX Branch: [Link 1: [92mUP[0m] [Link 2: [92mUP[0m] | Forwarding -> SINGLE PATH (Gi1/0)
+2026-06-21 15:01:44,487 - INFO -  -> GIZA Branch: [Link 1: [92mUP[0m] [Link 2: [92mUP[0m] | Forwarding -> SINGLE PATH (Gi3/0)
+
+2026-06-21 15:02:14,824 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:02:14,826 - INFO -  -> ALEX Branch: [Link 1: [92mUP[0m] [Link 2: [92mUP[0m] | Forwarding -> SINGLE PATH (Gi1/0)
+2026-06-21 15:02:14,829 - INFO -  -> GIZA Branch: [Link 1: [92mUP[0m] [Link 2: [92mUP[0m] | Forwarding -> SINGLE PATH (Gi3/0)
+
+2026-06-21 15:02:45,216 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:02:45,216 - INFO -  -> ALEX Branch: [Link 1: [92mUP[0m] [Link 2: [92mUP[0m] | Forwarding -> SINGLE PATH (Gi1/0)
+2026-06-21 15:02:45,217 - INFO -  -> GIZA Branch: [Link 1: [92mUP[0m] [Link 2: [92mUP[0m] | Forwarding -> SINGLE PATH (Gi3/0)
+
+2026-06-21 15:03:15,543 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:03:15,543 - INFO -  -> ALEX Branch: [Link 1: [92mUP[0m] [Link 2: [92mUP[0m] | Forwarding -> SINGLE PATH (Gi1/0)
+2026-06-21 15:03:15,544 - INFO -  -> GIZA Branch: [Link 1: [92mUP[0m] [Link 2: [92mUP[0m] | Forwarding -> SINGLE PATH (Gi3/0)
+
+2026-06-21 15:03:41,947 - INFO - Monitor killed by operator.
+2026-06-21 15:03:45,538 - INFO - Verifying network state...
+2026-06-21 15:03:47,489 - INFO - >> Target already configured. Skipping baseline deployment script.
+2026-06-21 15:03:47,489 - INFO - === WAN TRACKING ENGINE ONLINE ===
+2026-06-21 15:03:50,739 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:03:50,739 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:03:50,740 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding -> [92mPrimary (Gi3/0) IS LIVE[0m
+
+2026-06-21 15:04:21,045 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:04:21,045 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:04:21,046 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding -> [92mPrimary (Gi3/0) IS LIVE[0m
+
+2026-06-21 15:04:51,460 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:04:51,460 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:04:51,461 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding -> [92mPrimary (Gi3/0) IS LIVE[0m
+
+2026-06-21 15:05:21,793 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:05:21,794 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:05:21,794 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding -> [92mPrimary (Gi3/0) IS LIVE[0m
+
+2026-06-21 15:05:52,140 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:05:52,140 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:05:52,141 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding -> [92mPrimary (Gi3/0) IS LIVE[0m
+
+2026-06-21 15:06:22,499 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:06:22,499 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:06:22,500 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:06:52,886 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:06:52,886 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:06:52,886 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:07:23,482 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:07:23,483 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:07:23,483 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:07:53,797 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:07:53,797 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:07:53,798 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:08:24,126 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:08:24,127 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:08:24,137 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:08:43,131 - INFO - Monitor killed by operator.
+2026-06-21 15:08:46,317 - INFO - Verifying network state...
+2026-06-21 15:08:49,455 - INFO - >> Target already configured. Skipping baseline deployment script.
+2026-06-21 15:08:49,456 - INFO - === WAN TRACKING ENGINE ONLINE ===
+2026-06-21 15:08:50,460 - ERROR - Execution loop failed: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-06-21 15:09:14,371 - INFO - Verifying network state...
+2026-06-21 15:09:26,440 - INFO - >> Initializing baseline device configurations...
+2026-06-21 15:10:21,288 - INFO - === WAN TRACKING ENGINE ONLINE ===
+2026-06-21 15:10:24,050 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:10:24,051 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91mDOWN[0m] | Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:10:24,051 - INFO -  -> GIZA Branch: [Primary: [91mDOWN[0m] [Backup: [92mUP[0m] | Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:10:54,234 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:10:54,235 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91mDOWN[0m] | Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:10:54,235 - INFO -  -> GIZA Branch: [Primary: [91mDOWN[0m] [Backup: [92mUP[0m] | Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:11:24,433 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:11:24,445 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91mDOWN[0m] | Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:11:24,446 - INFO -  -> GIZA Branch: [Primary: [91mDOWN[0m] [Backup: [92mUP[0m] | Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:11:54,680 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:11:54,680 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91mDOWN[0m] | Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:11:54,681 - INFO -  -> GIZA Branch: [Primary: [91mDOWN[0m] [Backup: [92mUP[0m] | Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:12:24,931 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:12:24,932 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91mDOWN[0m] | Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:12:24,933 - INFO -  -> GIZA Branch: [Primary: [91mDOWN[0m] [Backup: [92mUP[0m] | Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:12:55,106 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:12:55,107 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91mDOWN[0m] | Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:12:55,107 - INFO -  -> GIZA Branch: [Primary: [91mDOWN[0m] [Backup: [92mUP[0m] | Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:13:25,263 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:13:25,265 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91mDOWN[0m] | Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:13:25,265 - INFO -  -> GIZA Branch: [Primary: [91mDOWN[0m] [Backup: [92mUP[0m] | Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:13:55,433 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:13:55,433 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91mDOWN[0m] | Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:13:55,434 - INFO -  -> GIZA Branch: [Primary: [91mDOWN[0m] [Backup: [92mUP[0m] | Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:14:25,639 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:14:25,639 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91mDOWN[0m] | Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:14:25,640 - INFO -  -> GIZA Branch: [Primary: [91mDOWN[0m] [Backup: [92mUP[0m] | Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:14:55,879 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:14:55,879 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91mDOWN[0m] | Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:14:55,880 - INFO -  -> GIZA Branch: [Primary: [91mDOWN[0m] [Backup: [92mUP[0m] | Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:15:26,165 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:15:26,166 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91mDOWN[0m] | Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:15:26,166 - INFO -  -> GIZA Branch: [Primary: [91mDOWN[0m] [Backup: [92mUP[0m] | Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:15:56,411 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:15:56,412 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91mDOWN[0m] | Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:15:56,413 - INFO -  -> GIZA Branch: [Primary: [91mDOWN[0m] [Backup: [92mUP[0m] | Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:16:26,701 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:16:26,701 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [91mDOWN[0m] | Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:16:26,702 - INFO -  -> GIZA Branch: [Primary: [91mDOWN[0m] [Backup: [92mUP[0m] | Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:16:42,690 - INFO - Monitor killed by operator.
+2026-06-21 15:16:50,592 - INFO - Verifying network state...
+2026-06-21 15:16:52,748 - INFO - >> Target already configured. Skipping baseline deployment script.
+2026-06-21 15:16:52,749 - INFO - === WAN TRACKING ENGINE ONLINE ===
+2026-06-21 15:16:56,060 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:16:56,060 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:16:56,061 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:17:26,477 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:17:26,477 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:17:26,478 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:17:56,864 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:17:56,864 - INFO -  -> ALEX Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:17:56,865 - INFO -  -> GIZA Branch: [Primary: [92mUP[0m] [Backup: [92mUP[0m] | Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:18:26,877 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:18:26,877 - INFO -  -> ALEX Branch: [Primary: ERR] [Backup: ERR] | Forwarding -> ERR
+2026-06-21 15:18:26,877 - INFO -  -> GIZA Branch: [Primary: ERR] [Backup: ERR] | Forwarding -> ERR
+
+2026-06-21 15:18:56,890 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:18:56,890 - INFO -  -> ALEX Branch: [Primary: ERR] [Backup: ERR] | Forwarding -> ERR
+2026-06-21 15:18:56,891 - INFO -  -> GIZA Branch: [Primary: ERR] [Backup: ERR] | Forwarding -> ERR
+
+2026-06-21 15:19:26,903 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:19:26,903 - INFO -  -> ALEX Branch: [Primary: ERR] [Backup: ERR] | Forwarding -> ERR
+2026-06-21 15:19:26,903 - INFO -  -> GIZA Branch: [Primary: ERR] [Backup: ERR] | Forwarding -> ERR
+
+2026-06-21 15:19:56,915 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:19:56,916 - INFO -  -> ALEX Branch: [Primary: ERR] [Backup: ERR] | Forwarding -> ERR
+2026-06-21 15:19:56,916 - INFO -  -> GIZA Branch: [Primary: ERR] [Backup: ERR] | Forwarding -> ERR
+
+2026-06-21 15:20:26,929 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:20:26,929 - INFO -  -> ALEX Branch: [Primary: ERR] [Backup: ERR] | Forwarding -> ERR
+2026-06-21 15:20:26,930 - INFO -  -> GIZA Branch: [Primary: ERR] [Backup: ERR] | Forwarding -> ERR
+
+2026-06-21 15:20:49,154 - INFO - Monitor killed by operator.
+2026-06-21 15:20:52,539 - INFO - Verifying network state...
+2026-06-21 15:20:54,550 - INFO - >> Initializing baseline device configurations...
+2026-06-21 15:21:30,598 - INFO - === WAN TRACKING ENGINE ONLINE ===
+2026-06-21 15:21:32,602 - ERROR - Execution loop failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2026-06-21 15:41:58,809 - INFO - Verifying network state...
+2026-06-21 15:42:01,181 - INFO - >> Initializing baseline device configurations...
+2026-06-21 15:42:15,020 - INFO - === WAN TRACKING ENGINE ONLINE ===
+2026-06-21 15:42:17,418 - ERROR - Execution loop failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2026-06-21 15:46:24,565 - INFO - === WAN TRACKING ENGINE ONLINE ===
+2026-06-21 15:46:27,736 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:46:27,740 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:46:27,742 - INFO -  -> GIZA Branch Forwarding -> [92mPrimary (Gi3/0) IS LIVE[0m
+
+2026-06-21 15:46:58,078 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:46:58,093 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:46:58,127 - INFO -  -> GIZA Branch Forwarding -> [92mPrimary (Gi3/0) IS LIVE[0m
+
+2026-06-21 15:47:28,369 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:47:28,378 - INFO -  -> ALEX Branch Forwarding -> [91mNO ACTIVE ROUTE[0m
+2026-06-21 15:47:28,413 - INFO -  -> GIZA Branch Forwarding -> [91mNO ACTIVE ROUTE[0m
+
+2026-06-21 15:47:58,826 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:47:58,876 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:47:58,957 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:48:29,754 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:48:29,912 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:48:29,971 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:49:00,346 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:49:00,357 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:49:00,370 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:49:30,835 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:49:30,868 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:49:30,944 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:50:01,361 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:50:01,378 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:50:01,396 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:50:31,728 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:50:31,731 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:50:31,749 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:51:02,204 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:51:02,218 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:51:02,228 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:51:32,636 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:51:32,693 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:51:32,771 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:52:03,117 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:52:03,119 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:52:03,122 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:52:33,467 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:52:33,482 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:52:33,504 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:53:03,996 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:53:04,037 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:53:04,102 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:53:34,355 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:53:34,360 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:53:34,378 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:54:04,653 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:54:04,659 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:54:04,673 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:54:34,839 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:54:34,852 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:54:34,894 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:55:05,266 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:55:05,274 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:55:05,291 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:55:35,674 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:55:35,682 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:55:35,751 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:56:06,006 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:56:06,011 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:56:06,021 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:56:36,638 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:56:36,652 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:56:36,681 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:57:07,239 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:57:07,344 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:57:07,422 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:57:37,673 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:57:37,690 - INFO -  -> ALEX Branch Forwarding -> [91mNO ACTIVE ROUTE[0m
+2026-06-21 15:57:37,697 - INFO -  -> GIZA Branch Forwarding -> [91mNO ACTIVE ROUTE[0m
+
+2026-06-21 15:58:08,087 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:58:08,090 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:58:08,092 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:58:38,624 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:58:38,660 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:58:38,698 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:59:08,949 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:59:08,958 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:59:08,986 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 15:59:39,204 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 15:59:39,211 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 15:59:39,223 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 16:00:09,518 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 16:00:09,521 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 16:00:09,526 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 16:00:39,812 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 16:00:39,816 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 16:00:39,822 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 16:01:10,181 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 16:01:10,188 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 16:01:10,189 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 16:01:40,523 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 16:01:40,553 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 16:01:40,561 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 16:02:10,838 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 16:02:10,841 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 16:02:10,843 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 16:02:41,121 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 16:02:41,131 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 16:02:41,136 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 16:03:11,346 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 16:03:11,349 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 16:03:11,351 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 16:03:41,592 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 16:03:41,593 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 16:03:41,594 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 16:04:11,898 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 16:04:11,906 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 16:04:11,911 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 16:04:42,209 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 16:04:42,210 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 16:04:42,212 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 16:05:12,373 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 16:05:12,374 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 16:05:12,377 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 16:05:42,667 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 16:05:42,673 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 16:05:42,675 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 16:06:12,892 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 16:06:12,896 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 16:06:12,898 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 16:06:43,073 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 16:06:43,076 - INFO -  -> ALEX Branch Forwarding -> [92mPrimary (Gi1/0) IS LIVE[0m
+2026-06-21 16:06:43,077 - INFO -  -> GIZA Branch Forwarding -> [92mBackup (Gi4/0) IS LIVE[0m
+
+2026-06-21 16:07:13,092 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 16:07:13,092 - INFO -  -> ALEX Branch Forwarding -> ERR
+2026-06-21 16:07:13,093 - INFO -  -> GIZA Branch Forwarding -> ERR
+
+2026-06-21 16:07:43,104 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 16:07:43,105 - INFO -  -> ALEX Branch Forwarding -> ERR
+2026-06-21 16:07:43,108 - INFO -  -> GIZA Branch Forwarding -> ERR
+
+2026-06-21 16:08:13,129 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 16:08:13,135 - INFO -  -> ALEX Branch Forwarding -> ERR
+2026-06-21 16:08:13,175 - INFO -  -> GIZA Branch Forwarding -> ERR
+
+2026-06-21 16:08:43,203 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 16:08:43,211 - INFO -  -> ALEX Branch Forwarding -> ERR
+2026-06-21 16:08:43,224 - INFO -  -> GIZA Branch Forwarding -> ERR
+
+2026-06-21 16:09:13,253 - INFO - [LIVE TELEMETRY TRAFFIC MAP]
+2026-06-21 16:09:13,254 - INFO -  -> ALEX Branch Forwarding -> ERR
+2026-06-21 16:09:13,255 - INFO -  -> GIZA Branch Forwarding -> ERR
+
